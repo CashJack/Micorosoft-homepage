@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-microsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CashJack/Micorosoft-homepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CashJack/Micorosoft-homepage/issues"
+  },
+  "homepage": "https://github.com/CashJack/Micorosoft-homepage#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18"
+  },
+  "dependencies": {
+    "vite": "^2.7.13"
+  }
+}
